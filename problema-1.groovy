@@ -7,3 +7,5 @@ int suma
 }
 
 println suma
+
+//Result: 233168
